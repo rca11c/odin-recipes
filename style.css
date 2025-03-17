@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(0, 99, 212);
+}
+
+.title-panel{
+    background-color: rgb(255, 255, 255);
+}
+
+.text{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1{
+    color: white;
+    font-weight: 900;
+    font-size: 60px;
+}
+
+h1,
+h2,
+h3{
+    text-align: center;
+}
+
+.recipe-list{
+    background-color: rgb(36, 120, 216);
+    font-size: 35px;
+    color: aliceblue;
+}
+
+p,
+ul,
+ol{
+    font-size: 25px;
+}
+
+ul,
+ol{
+    background-color: rgb(77, 149, 231);
+}
+
+.home-button{
+    font-size: 35px;
+    color: aliceblue;
+}
+
+.home-center{
+    text-align: center;
+}
